@@ -3,8 +3,10 @@
 
 # UPDATES
 
+Updated to be compatible with Python3.  Also cleaned up formatting of code.  Other changes to come.
+
 ```
-	            _	          _           _		   		   
+	      _	          _           _		   		   
   ___ ___ _ _| |_ ___ ___| |_ _ _ ___| |_ ___ ___ 
  |  _| . | | |  _| -_|  _|   | | |   |  _| -_|  _|
  |_| |___|___|_| |___|_| |_|_|___|_|_|_| |___|_|
