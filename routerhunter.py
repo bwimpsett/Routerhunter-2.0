@@ -2,14 +2,9 @@
 # -*- coding: utf-8 -*-
 
 #===============================================================================================================================================
-# Scanner RouterHunterBR v2.0 - InurlBrasil Team
+# Scanner RouterHunterBR v2.1 - Brian Wimpsett
 # Tool used to find and perform tests in vulnerable routers on the internet.
-# Facebook: https://fb.com/JhonVipNet
-# Blog: http://blog.inurl.com.br
-# Twitter: https://twitter.com/jh00nbr
-# Github: https://github.com/jh00nbr/
-# Channel: https://www.youtube.com/c/Mrsinisterboy
-# Fapage InurlBrasil Team: https://fb.com/InurlBrasil
+# Github: https://github.com/bwimpsett/
 #===============================================================================================================================================
 
 import os
@@ -28,9 +23,12 @@ banner = """
   ___ ___ _ _| |_ ___ ___| |_ _ _ ___| |_ ___ ___
  |  _| . | | |  _| -_|  _|   | | |   |  _| -_|  _|
  |_| |___|___|_| |___|_| |_|_|___|_|_|_| |___|_|
-        			       BR - v2.0
+        			       BR - v3.0
 
  Tool used to find and perform tests in vulnerable routers on the internet.
+
+[ Scanner RouterHunterBR 3.0 - coded by Brian Wimpsett a.k.a algorhythm511 - algorhythm511 at live.com ]
+[ twitter.com/jh00nbr - github.com/jh00nbr/ - blog.inurl.com.br - www.youtube.com/c/Mrsinisterboy ]
 
 [ Scanner RouterHunterBR 2.0 - InurlBrasil Team - coded by Jhonathan Davi a.k.a jh00nbr - jhoonbr at protonmail.ch ]
 [ twitter.com/jh00nbr - github.com/jh00nbr/ - blog.inurl.com.br - www.youtube.com/c/Mrsinisterboy ]

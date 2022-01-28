@@ -1,15 +1,18 @@
-# Scanner Routerhunter 2.0
+# Scanner Routerhunter 2.1
  Tool used to find vulnerable routers and devices on the Internet and perform tests
 
+# UPDATES
+
 ```
-	          _	          _           _		   		   
+	            _	          _           _		   		   
   ___ ___ _ _| |_ ___ ___| |_ _ _ ___| |_ ___ ___ 
  |  _| . | | |  _| -_|  _|   | | |   |  _| -_|  _|
  |_| |___|___|_| |___|_| |_|_|___|_|_|_| |___|_|
-				       BR - v2.0
+				       BR - v2.1
 
  Tool used to find vulnerable routers and devices on the Internet and perform tests.
 
+[ Coded by Brian Wimpsett a.k.a algorhythm511 - bwimpsett at gmail.com ]
 [ Coded by Jhonathan Davi a.k.a jh00nbr - jhoonbr at protonmail.ch ]
 [ fb.com/JhonVipNet - twitter.com/jh00nbr - github.com/jh00nbr/ - blog.inurl.com.br - www.youtube.com/c/Mrsinisterboy ]
 
@@ -19,10 +22,8 @@ consent is illegal. It is the end user's responsibility to obey all applicable l
 federal laws.Developers assume no liability and are not responsible for any misuse or damage caused
 by this program.  
 ```
-
-
- * AUTOR: Jhonathan Davi A.K.A jh00nbr
- * EMAIL*: jhoonbr@protonmail.ch
+ * AUTHOR: Jhonathan Davi A.K.A jh00nbr
+ * EMAIL: jhoonbr@protonmail.ch
  * Blog: http://blog.inurl.com.br
  * Twitter: https://twitter.com/jh00nbr
  * Facebook: https://fb.com/JhonVipNet
